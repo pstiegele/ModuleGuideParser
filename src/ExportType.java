@@ -1,0 +1,4 @@
+
+public enum ExportType {
+	HEADLINE, ELECTIVE, ELECTIVETYPE, MODULE
+}
